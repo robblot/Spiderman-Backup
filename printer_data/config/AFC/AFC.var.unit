@@ -25,7 +25,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Calibrating",
-            "dist_hub": 170.0
+            "dist_hub": 175.0
         },
         "lane2": {
             "name": "lane2",
