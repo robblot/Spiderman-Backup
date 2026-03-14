@@ -25,7 +25,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 135.02,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -55,7 +55,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 70.4,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -85,7 +85,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 72.23,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -115,8 +115,8 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating",
-            "dist_hub": 180.0,
+            "status": "Loaded",
+            "dist_hub": 139.79,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         }
@@ -128,7 +128,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
