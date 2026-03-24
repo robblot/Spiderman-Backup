@@ -79,7 +79,7 @@
             "empty_spool_weight": 190,
             "remember_spool": false,
             "spool_id": null,
-            "color": "#3ED218",
+            "color": "#124D9A",
             "weight": 996.0240926867458,
             "extruder_temp": null,
             "runout_lane": null,
