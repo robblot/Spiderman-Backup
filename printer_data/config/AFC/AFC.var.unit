@@ -55,7 +55,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Ejecting",
             "dist_hub": 71.2,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -110,7 +110,7 @@
             "remember_spool": false,
             "spool_id": null,
             "color": "#936512",
-            "weight": 956.5632616578864,
+            "weight": 956.3327295111299,
             "extruder_temp": null,
             "runout_lane": null,
             "filament_status": "In Tool",
