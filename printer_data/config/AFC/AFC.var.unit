@@ -27,8 +27,8 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating",
-            "dist_hub": 133.12,
+            "status": "None",
+            "dist_hub": 132.06,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_prep,lane1_load"
         },
@@ -60,7 +60,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "None",
-            "dist_hub": 70.53,
+            "dist_hub": 71.33,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_prep,lane2_load"
         },
@@ -92,7 +92,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "None",
-            "dist_hub": 72.24,
+            "dist_hub": 72.25,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane3_prep,lane3_load"
         },
@@ -123,7 +123,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Calibrating",
             "dist_hub": 133.31,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane4_prep,lane4_load"
