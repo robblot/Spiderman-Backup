@@ -24,7 +24,7 @@
             "weight": 1000,
             "extruder_temp": 0,
             "bed_temp": 0,
-            "runout_lane": null,
+            "runout_lane": "lane3",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
